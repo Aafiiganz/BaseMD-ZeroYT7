@@ -1,11 +1,11 @@
 /* My Info
 * New Base Multi Device By Zero YT7
 * Please Follow Me On All Sosial Media
-* Instagram : https://instagram.com/Zero_YT7
-* Tiktok : https://tiktok.com/@_zeroyt7
-* Github : https://github.com/Zero-YT7
+* Instagram : https://instagram.com/saya.anak.baek
+* Tiktok : https://tiktok.com/
+* Github : https://github.com/Aafiiganz
 * Youtube : https://youtube.com/ZeroYT7
-* Contact Me on wa.me/6285157740529
+* Contact Me on wa.me/6285702716624
 */
 
 /* My Web
@@ -41,8 +41,8 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-global.owner = ['6285157740529']
-global.premium = ['6285157740529']
+global.owner = ['6285702716624']
+global.premium = ['6285702716624']
 global.botname = 'Z7 BOT'
 global.packname = 'Zero YT7'
 global.author = 'Zero YT7'
